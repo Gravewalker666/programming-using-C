@@ -1,0 +1,5 @@
+Employee name Employee No Basic salary(Rs) OT hours
+Nimal         001         35000.00         9
+Kamal         002         45000.00         10
+Sunil         003         55000.00         2
+Mailika       004         25000.00         5
